@@ -6,7 +6,7 @@
 $dbhost = "localhost";
 
 // Database Name
-$dbname = 'fashiony_ogs';
+$dbname = 'sarigaapparels';
 
 // Database Username
 $dbuser = 'root';
