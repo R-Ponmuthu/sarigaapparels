@@ -1,0 +1,14 @@
+{
+    "name": "digitalocean-apps/sarigaapparels",
+    "description": "Sariga Apparels application for App Platform",
+    "type": "project",
+     "require": {
+	"php": "^8.0.0"
+  },
+    "authors": [
+        {
+            "name": Ponmuthu R",
+            "email": "rponmuthu.mca@gmail.com"
+        }
+    ]
+}
