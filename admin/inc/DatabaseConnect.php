@@ -3,7 +3,7 @@
 // class DatabaseConnect {
 
 	// Host Name
-$dbhost = "68.183.82.22";
+$dbhost = "143.110.255.45";
 
 // Database Name
 $dbname = 'sarigaapparels';
