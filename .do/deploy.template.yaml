@@ -1,0 +1,8 @@
+spec:
+  name: sarigaapparels
+  services:
+  - environment_slug: php
+    git:
+      branch: main
+      repo_clone_url: https://github.com/R-Ponmuthu/sarigaapparels.git
+    name: sarigaapparels
